@@ -1,0 +1,69 @@
+body{
+	background: url(../images/bac.gif);
+	position: relative;
+}
+header{
+	width: 100%;
+	background-color:rgba(255,143,110,.6);
+	border-bottom: 0.1rem solid #B0AAA4;
+	position: fixed;
+}
+header h3{
+	font-size: 0.9rem;
+	text-align: center;
+	padding:0.575rem 0;
+	color: #fff;
+	display: inline-block;
+	margin-left:4rem;
+}
+header i{
+	display: inline-block;
+	font-size:1.2rem;
+	color: #fff;
+	line-height:2.25rem;
+	margin-left: 0.6rem;
+}
+.banner .ban{
+	width: 15.6rem;
+	height: 10.5rem;
+	margin: 0.2rem;
+}
+.banner p{margin: 0.2rem;
+	width: 15.6rem;
+	padding:0.5rem 0;
+	background-color: #fff;
+	margin-top:-0.18rem;
+}
+.banner p span{
+	float: left;
+	font-size:0.5rem;
+	color: #79746E;
+	line-height: 1rem;
+	margin-left:1.5rem;
+
+}
+.banner p span img
+{
+	height: 2rem;
+	width: 0.05rem;
+}
+.yuan img{
+	width: 4.75rem;
+	position: absolute;
+	top:3.9rem; left:5.625rem;
+
+}
+footer img{
+	width: 16rem;
+	height: 2.45rem;
+	position:fixed;
+	top:24.8rem;
+	left: 0;
+}
+ul li{
+	width: 33%;
+}
+ul li img{
+	width: 4.95rem;
+	padding:0.2rem;
+}
